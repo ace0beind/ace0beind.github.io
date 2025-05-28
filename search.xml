@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>简单学习一下Markdown吧</title>
+      <link href="/2025/05/28/amarkdown/"/>
+      <url>/2025/05/28/amarkdown/</url>
+      
+        <content type="html"><![CDATA[<h1 id="可最喜欢你"><a href="#可最喜欢你" class="headerlink" title="可最喜欢你"></a>可最喜欢你</h1><h2 id="可最讨厌你"><a href="#可最讨厌你" class="headerlink" title="可最讨厌你"></a>可最讨厌你</h2><h3 id="Kisaki-daisuki"><a href="#Kisaki-daisuki" class="headerlink" title="Kisaki daisuki!"></a>Kisaki daisuki!</h3><h4 id="纸上的魔法使"><a href="#纸上的魔法使" class="headerlink" title="纸上的魔法使"></a>纸上的魔法使</h4><h5 id="水葬银货"><a href="#水葬银货" class="headerlink" title="水葬银货"></a>水葬银货</h5><h6 id="Atri"><a href="#Atri" class="headerlink" title="Atri"></a>Atri</h6><blockquote><p>Bad apple, we don’t like to eat apples, do you like?</p></blockquote><h3 id="玩galgame时需要注意哪些事？"><a href="#玩galgame时需要注意哪些事？" class="headerlink" title="玩galgame时需要注意哪些事？"></a>玩galgame时需要注意哪些事？</h3><ol><li>有一个安静的环境，使感官随着音乐与剧情而荡漾。</li><li>有一个舒适的抱枕。</li><li>有一颗坚强的心。</li></ol><h3 id="如何使一颗心免于哀伤？"><a href="#如何使一颗心免于哀伤？" class="headerlink" title="如何使一颗心免于哀伤？"></a>如何使一颗心免于哀伤？</h3><ul><li>买她最爱的小蛋糕。</li><li>请她唱&#x2F;给她听最喜欢的歌。</li></ul><ul><li>破除迷雾，重见晴空。</li><li>我们终将从梦中醒来。</li></ul><h3 id="玩过的galgame："><a href="#玩过的galgame：" class="headerlink" title="玩过的galgame："></a>玩过的galgame：</h3><ul><li><input checked="" disabled="" type="checkbox"> Atri</li><li><input checked="" disabled="" type="checkbox"> 箱庭的学园</li><li><input checked="" disabled="" type="checkbox"> 月影魅像解放之羽</li><li><input checked="" disabled="" type="checkbox"> 纸上的魔法使</li><li><input checked="" disabled="" type="checkbox"> 水葬银货</li><li><input checked="" disabled="" type="checkbox"> 3days</li><li><input checked="" disabled="" type="checkbox"> 11eyes-罪与罚与赎的少女</li><li><input disabled="" type="checkbox"> 千恋万花</li></ul><p>代码：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;love&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>数学公式：<br>$$</p><p>\frac{\partial f}{\partial x} &#x3D; 2\sqrt{a}x</p><p>$$</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>大家好啊，我是Kawaiinano</title>
       <link href="/2024/12/02/helloworld/"/>
       <url>/2024/12/02/helloworld/</url>
