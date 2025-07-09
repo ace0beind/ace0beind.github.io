@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>简单学习一下Markdown吧</title>
+      <link href="/2025/05/28/amarkdown/"/>
+      <url>/2025/05/28/amarkdown/</url>
+      
+        <content type="html"><![CDATA[<h1 id="可最喜欢你"><a href="#可最喜欢你" class="headerlink" title="可最喜欢你"></a>可最喜欢你</h1><h2 id="可最讨厌你"><a href="#可最讨厌你" class="headerlink" title="可最讨厌你"></a>可最讨厌你</h2><h3 id="Kisaki-daisuki"><a href="#Kisaki-daisuki" class="headerlink" title="Kisaki daisuki~"></a>Kisaki daisuki~</h3><h4 id="纸上的魔法使"><a href="#纸上的魔法使" class="headerlink" title="纸上的魔法使"></a>纸上的魔法使</h4><h5 id="水葬银货"><a href="#水葬银货" class="headerlink" title="水葬银货"></a>水葬银货</h5><h6 id="Atri"><a href="#Atri" class="headerlink" title="Atri"></a>Atri</h6><blockquote><p>Bad apple, we don’t like eating apples, do you like?</p></blockquote><hr><h2 id="玩galgame时需要注意哪些事？"><a href="#玩galgame时需要注意哪些事？" class="headerlink" title="玩galgame时需要注意哪些事？"></a>玩galgame时需要注意哪些事？</h2><ol><li>有一个安静的环境，使感官随着音乐与剧情而荡漾。</li><li>有一个舒适的抱枕。</li><li>有一颗坚强的心。</li></ol><h2 id="如何使一颗心免于哀伤？"><a href="#如何使一颗心免于哀伤？" class="headerlink" title="如何使一颗心免于哀伤？"></a>如何使一颗心免于哀伤？</h2><ul><li>买她最爱的小蛋糕。</li><li>请她唱&#x2F;给她听最喜欢的歌。</li></ul><ul><li>破除迷雾，重见晴空!</li><li>我们终将从梦中醒来。</li></ul><h2 id="玩过的galgame："><a href="#玩过的galgame：" class="headerlink" title="玩过的galgame："></a>玩过的galgame：</h2><ul><li><input checked="" disabled="" type="checkbox"> ATRI -My Dear Moments-</li><li><input checked="" disabled="" type="checkbox"> 箱庭的学园</li><li><input checked="" disabled="" type="checkbox"> 月影魅像 -解放之羽-</li><li><input checked="" disabled="" type="checkbox"> 纸上的魔法使</li><li><input checked="" disabled="" type="checkbox"> 水葬银币的伊斯特里亚</li><li><input checked="" disabled="" type="checkbox"> 3days～在逝去时间的另一端</li><li><input checked="" disabled="" type="checkbox"> 11eyes-罪与罚与救赎之少女-</li><li><input disabled="" type="checkbox"> 千恋万花</li></ul><h2 id="水葬银货可攻略女主："><a href="#水葬银货可攻略女主：" class="headerlink" title="水葬银货可攻略女主："></a>水葬银货可攻略女主：</h2><table><thead><tr><th align="right">名字</th><th align="left">发色</th><th align="center">瞳色</th><th>萌点</th></tr></thead><tbody><tr><td align="right">煤谷小夜</td><td align="left">黑发</td><td align="center">红瞳</td><td>青梅竹马</td></tr><tr><td align="right">汐入玖玖里</td><td align="left">蓝发</td><td align="center">蓝瞳</td><td>冰美人</td></tr><tr><td align="right">小不动摇</td><td align="left">金发</td><td align="center">蓝瞳</td><td>学妹</td></tr><tr><td align="right">茅崎夕樱</td><td align="left">粉发</td><td align="center">金瞳</td><td>实妹</td></tr></tbody></table><p>我永远喜欢月社妃<a href="@ref">1</a>。</p><p><a href="@ref">1</a>: 纸妹妹。</p><p><a href="https://www.ymgal.games/" title="来感受这绝妙的文艺体裁">月幕galgame</a></p><p><a href="https://ace0beind.github.io/2025/05/28/amarkdown/" title="love">本页链接owo</a></p><p><a href="https://ace0beind.github.io/2025/05/28/amarkdown/" title="简单学习一下Markdown吧">还是本页链接ovo</a></p><p>想了解汐入玖玖里的特征吗？请参考<a href="#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E5%8F%AF%E6%94%BB%E7%95%A5%E5%A5%B3%E4%B8%BB">标题</a></p><hr><h2 id="代码："><a href="#代码：" class="headerlink" title="代码："></a>代码：</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;love&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="数学公式："><a href="#数学公式：" class="headerlink" title="数学公式："></a>数学公式：</h2><p>$$<br>\frac{\partial f}{\partial x} &#x3D; 2\sqrt{a}<br>$$</p><h2 id="行内数学公式"><a href="#行内数学公式" class="headerlink" title="行内数学公式"></a>行内数学公式</h2><p>$\theta&#x3D;x^2$</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>大家好啊，我是Kawaiinano</title>
+      <link href="/2024/12/02/helloworld/"/>
+      <url>/2024/12/02/helloworld/</url>
+      
+        <content type="html"><![CDATA[<p>首先我要提出我的想法，我搭建这个博客就是为了展现出我的某些兴趣爱好，当然也少不了一些代码项目的编写，我会尽我所能，好好地完善这个博客。</p><h2 id="美化是第一大关"><a href="#美化是第一大关" class="headerlink" title="美化是第一大关"></a>美化是第一大关</h2><h4 id="首先应该做的就是界面的美化。"><a href="#首先应该做的就是界面的美化。" class="headerlink" title="首先应该做的就是界面的美化。"></a>首先应该做的就是界面的美化。</h4><pre><code>    界面全美化工程正火热进行当中！</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 卡哇伊 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
