@@ -1,32 +1,15 @@
-declare function showHitokoto(): void;
-declare const tools: {
-    hitokoto: {
+import type { Config, ModelManager } from './model.js';
+import type { Tips } from './widget.js';
+interface Tools {
+    [key: string]: {
         icon: string;
-        callback: typeof showHitokoto;
+        callback: (message: any) => void;
     };
-    asteroids: {
-        icon: string;
-        callback: () => void;
-    };
-    'switch-model': {
-        icon: string;
-        callback: () => void;
-    };
-    'switch-texture': {
-        icon: string;
-        callback: () => void;
-    };
-    photo: {
-        icon: string;
-        callback: () => void;
-    };
-    info: {
-        icon: string;
-        callback: () => void;
-    };
-    quit: {
-        icon: string;
-        callback: () => void;
-    };
-};
-export default tools;
+}
+declare class ToolsManager {
+    tools: Tools;
+    config: Config;
+    constructor(model: ModelManager, config: Config, tips: Tips);
+    registerTools(): void;
+}
+export { ToolsManager, Tools };

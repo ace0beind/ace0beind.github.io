@@ -1,5 +1,21 @@
+/**
+ * @file Define the type of the global window object.
+ * @module types/window
+ */
 interface Window {
+  /**
+   * Asteroids game class.
+   * @type {any}
+   */
   Asteroids: any;
+   /**
+   * Asteroids game player array.
+   * @type {any[]}
+   */
   ASTEROIDSPLAYERS: any[];
-  initWidget: (config: string | Config, apiPath?: string) => void;
+  /**
+   * Function to initialize the Live2D widget.
+   * @type {(config: Config) => void}
+   */
+  initWidget: (config: Config) => void;
 }

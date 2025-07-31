@@ -1,9 +1,6 @@
-export * from './asteroids';
-export * from './config';
-export * from './model';
+/**
+ * @file Export all type definitions.
+ * @module types/index
+ */
 export * from './live2dApi';
-export * from './result';
-export * from './svg';
-export * from './time';
-export * from './tools';
 export * from './window';
