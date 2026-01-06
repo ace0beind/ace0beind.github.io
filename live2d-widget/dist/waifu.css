@@ -271,3 +271,11 @@
 		transform: translate(0, 0) rotate(0);
 	}
 }
+
+/* Hide Live2D on small/mobile screens */
+@media (max-width: 768px), (max-device-width: 768px) {
+	#waifu,
+	#waifu-toggle {
+		display: none !important;
+	}
+} 
