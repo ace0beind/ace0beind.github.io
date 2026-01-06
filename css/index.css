@@ -4162,8 +4162,8 @@ figure.highlight pre .javascript .function {
   position: absolute;
   top: calc(50% - 7px);
   left: 0;
-  color: #f47466;
-  content: '\f4d8';
+  color: #7cfc00;
+  content: '\f105';
   line-height: 1;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
